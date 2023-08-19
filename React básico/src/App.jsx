@@ -1,10 +1,10 @@
 import React from 'react';
-import Input from './Formulários/aulaRadio';
 
 const App = () => {
-  return (
+  
+  return ( 
     <div>
-      <Input />
+
     </div>
   );
 };
